@@ -15,3 +15,4 @@ Unfortunately I was unable to complete every task within the timeframe given due
 
 - Some styling tasks (image not wrapped with text, FAQ title not styled)
 
+Here is a link to my old repository for this project if you want to see the commit/push history: https://github.com/Hockless/Ascensor-Assessment
